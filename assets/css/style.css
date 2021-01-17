@@ -1687,6 +1687,12 @@ section {
     top: 110px !important;
      padding: 50px 10px !important; 
   }
+    .index-style{
+     padding: 30px 8px 40px 8px !important; 
+   }
+   .Mcolor{
+    font-size: 1.5em !important;
+   }
 }
 .index-main{
     position: absolute;
